@@ -1,6 +1,15 @@
 :root {
-  font-family: sans-serif;
+  color-scheme: dark;
+  font-family: ui-sans-serif, -apple-system, system-ui, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   -webkit-font-smoothing: antialiased;
-  background: #333;
-  color: #ddd;
+  background: #222;
+  color: #ececec;
+  max-width: 768px;
+  margin: 0 auto;
+}
+h1, h2, h3, h4 {
+  background: #57DB90;
+  color: #333;
+  margin: 0.5em 0 0.5em;
+  padding: 0.25em 0.5em;
 }
